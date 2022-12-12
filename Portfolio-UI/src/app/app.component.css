@@ -44,3 +44,8 @@
     padding: 5%;
     padding-right: 10%;
 }
+
+.col-md-6, .col-md-5{
+    background-color: rgb(220, 207, 236);
+    border-radius: 150px 0px 150px 0px;
+}
