@@ -33,6 +33,7 @@ button{
     padding: 2%;
     box-shadow: 0px 0px 2px 0px grey;
     border-radius: 20px;
+    margin-bottom: 2%;
 }
 
 /* Skills section styles */
@@ -59,6 +60,7 @@ button{
     /* background-color: rgb(220, 207, 236); */
     border-radius: 150px 0px 150px 0px;
     box-shadow: 0px 0px 10px 0px grey;
+    margin-bottom: 2%;
 }
 
 /* Development process */
@@ -73,6 +75,7 @@ button{
 .development .col-md-4, .col-md-8{
     background-color: beige;
     border-radius: 0px 100px 0px 50px;
+    box-shadow: 0px 0px 2px 0px grey;
 }
 
 .col-md-8{
