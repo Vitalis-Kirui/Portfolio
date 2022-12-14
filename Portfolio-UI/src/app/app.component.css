@@ -3,6 +3,12 @@
     margin-top: -20px;
 }
 
+/* Buttons */
+button{
+    font-size: 0.8rem;
+    border-radius: 0px 20px 0px 20px;
+}
+
 /* Navbar styles */
 .navbar {
     position: sticky;
@@ -119,4 +125,10 @@
 
 #projects img:hover{
     box-shadow: 0px 0px 20px 0px;
+}
+
+/* Design styles */
+#design:hover{
+    background-color: aquamarine !important;
+    color: black !important;;
 }
