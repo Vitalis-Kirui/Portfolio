@@ -3,10 +3,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    /* font-family: 'Nova Round', cursive; */
-    /* font-family: 'Charm', cursive; */
-    /* font-family: 'Lusitana', serif; */
-    font-family: 'Amiri', serif;
+    font-family: 'Jost', sans-serif;
 }
 
 p,a,li{
